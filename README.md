@@ -6,3 +6,6 @@ This is a new line
 
 # About the project
 **some description**
+
+- ** Homepage **
+- how to learn the python programming language
